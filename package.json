@@ -1,5 +1,5 @@
 {
-  "homepage": "https://sachchitbalamurugan.github.io/YOTIwebdev/home",
+  "homepage": "https://SachchitBalamurugan.github.io/YOTIwebdev/home",
   "name": "untitled",
   "version": "1.0.0",
   "description": "Scene exported with Spline",
@@ -12,6 +12,10 @@
   "scripts": {
     "start": "vite",
     "build": "vite build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "dev": "vite",
+    "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
